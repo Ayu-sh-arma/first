@@ -1,3 +1,3 @@
-#HEllo
+#Hello
 ##there is this awesome stuff
-hola amigos
+Hola amigos
